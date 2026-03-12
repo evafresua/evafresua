@@ -80,8 +80,8 @@ On the academic side I'm a 2nd-year Computer Science student at the Escola de En
 
 ## Reach me
 
-- Email: [your-email@uvigo.es](mailto:eva.freire@alumnos.uvigo.es)
-- LinkedIn: [linkedin.com/in/evafresua](https://www.linkedin.com/in/evafresua)
+- Email: [eva.freire@alumnos.uvigo.es](mailto:eva.freire@alumnos.uvigo.es)
+- LinkedIn: [https://www.linkedin.com/in/evafresua](https://www.linkedin.com/in/eva-freire-su%C3%A1rez-ba09102b2/)
 
 ---
 
