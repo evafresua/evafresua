@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**evafresua/evafresua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eva Freire Suárez
 
-Here are some ideas to get you started:
+**Driverless Lead @ UVigo Motorsport · CS @ Universidade de Vigo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evafresua-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evafresua)
+[![UVigo Motorsport](https://img.shields.io/badge/UVigo_Motorsport-Driverless_Lead-E63946?style=flat)](https://uvigomotorsport.es)
+[![GSoC 2026](https://img.shields.io/badge/GSoC_2026-Applicant_%40_JdeRobot-4285F4?style=flat&logo=google&logoColor=white)](https://summerofcode.withgoogle.com)
+
+</div>
+
+---
+
+## About me
+
+I'm the Driverless Lead at UVigo Motorsport, Universidade de Vigo's Formula Student team. Day to day I design and maintain the perception, planning and control stack that lets our race car drive itself: detecting cones with cameras and lidar, building a map, planning a racing line, and closing the loop with low-level control — all in Python, ROS 2, OpenCV, PyTorch and Gazebo on Linux.
+
+On the academic side I'm a 2nd-year Computer Science student at the Escola de Enxeñaría Informática (Universidade de Vigo, Spain). I have a strong math background through ESTALMAT and STEMbach, which feeds directly into the geometry, probabilistic methods and optimisation I use in robotics every day.
+
+---
+
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-advanced-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-fundamentals-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-EF6C00?style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+**Robotics & CV**
+
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat)
+
+**ML & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## UVigo Motorsport Driverless
+
+| Area | Responsibilities |
+|---|---|
+| **Perception** | Cone detection and classification from camera and lidar data; sensor fusion pipeline |
+| **Planning** | Map building (SLAM), racing line optimisation, path planning |
+| **Control** | Lateral and longitudinal controllers; vehicle model tuning |
+| **Infrastructure** | ROS 2 architecture, simulation environment in Gazebo, CI and tooling |
+
+---
+
+## Currently
+
+- Contributing to [JdeRobot/PerceptionMetrics](https://github.com/JdeRobot/PerceptionMetrics) as a GSoC 2026 applicant
+- Deepening C++ skills for real-time robotics applications
+- Preparing the driverless stack for the next Formula Student season
+
+---
+
+## Certifications
+
+- Machine Learning with Python — IBM / edX (2024)
+- Analyzing Data with Python — edX (2025)
+- Visualizing Data with Python — edX (2025)
+- Python for Data Science Project — IBM / edX (2025)
+- Cambridge English FCE B2
+
+---
+
+## Reach me
+
+- 📧 Email: `your.email@here`
+- 💼 LinkedIn: [linkedin.com/in/evafresua](https://www.linkedin.com/in/evafresua)
+
+---
+
+<div align="center">
+
+*Open to GSoC 2026 · open source robotics collaboration · internships in autonomous systems*
+
+</div>
