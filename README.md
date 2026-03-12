@@ -68,22 +68,7 @@ On the academic side I'm a 3rd-year Computer Science student at the Escola de En
 
 ---
 
-## Commit style
 
-```
-feat(perception): add lidar-camera fusion pipeline
-fix(control): correct lateral PID tuning for low-speed
-refactor(planning): simplify racing line optimiser logic
-chore(ci): update gazebo sim launch config
-docs(slam): document map-building pipeline
-test(perception): add cone classifier unit tests
-```
-
-> **types:** `feat` · `fix` · `refactor` · `chore` · `docs` · `test` · `perf`  
-> **scopes:** `perception` · `planning` · `control` · `slam` · `ci` · `infra`  
-> **rules:** english · imperative mood · ≤ 72 chars
-
----
 
 ## Certifications
 
