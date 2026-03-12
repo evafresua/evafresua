@@ -6,9 +6,9 @@
 
 **Driverless Lead @ UVigo Motorsport · CS @ Universidade de Vigo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-evafresua-aebf9c?style=flat&logo=linkedin&logoColor=171a18&labelColor=1e221f)](https://www.linkedin.com/in/evafresua)
-[![UVigo Motorsport](https://img.shields.io/badge/UVigo_Motorsport-Driverless_Lead-d07878?style=flat&labelColor=1e221f)](https://uvigomotorsport.es)
-[![GSoC 2026](https://img.shields.io/badge/GSoC_2026-Applicant_%40_JdeRobot-8da38c?style=flat&logo=google&logoColor=aebf9c&labelColor=1e221f)](https://summerofcode.withgoogle.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evafresua-c8dbbf?style=flat&logo=linkedin&logoColor=1a3318)](https://www.linkedin.com/in/evafresua)
+[![UVigo Motorsport](https://img.shields.io/badge/UVigo_Motorsport-Driverless_Lead-9fc49a?style=flat&logoColor=152b13)](https://uvigomotorsport.es)
+[![GSoC 2026](https://img.shields.io/badge/GSoC_2026-Applicant_%40_JdeRobot-b5ceaa?style=flat&logo=google&logoColor=1a3318)](https://summerofcode.withgoogle.com)
 
 </div>
 
@@ -34,33 +34,33 @@ I'm the Driverless Lead at **UVigo Motorsport**, building the full autonomy stac
 ## Tech stack
 
 **Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-advanced-aebf9c?style=flat&logo=python&logoColor=171a18&labelColor=1e221f)
-![C++](https://img.shields.io/badge/C++-fundamentals-8da38c?style=flat&logo=cplusplus&logoColor=171a18&labelColor=1e221f)
-![MATLAB](https://img.shields.io/badge/MATLAB-a4b5a9?style=flat&labelColor=1e221f)
-![LaTeX](https://img.shields.io/badge/LaTeX-a4b5a9?style=flat&logo=latex&logoColor=aebf9c&labelColor=1e221f)
+![Python](https://img.shields.io/badge/Python-advanced-c8dbbf?style=flat&logo=python&logoColor=1a3318)
+![C++](https://img.shields.io/badge/C++-fundamentals-b5ceaa?style=flat&logo=cplusplus&logoColor=1a3318)
+![MATLAB](https://img.shields.io/badge/MATLAB-d4ddd1?style=flat&logoColor=2a3d27)
+![LaTeX](https://img.shields.io/badge/LaTeX-d4ddd1?style=flat&logo=latex&logoColor=2a3d27)
 
 **Robotics & CV** &nbsp;
-![ROS 2](https://img.shields.io/badge/ROS_2-aebf9c?style=flat&logo=ros&logoColor=171a18&labelColor=1e221f)
-![OpenCV](https://img.shields.io/badge/OpenCV-8da38c?style=flat&logo=opencv&logoColor=171a18&labelColor=1e221f)
-![Gazebo](https://img.shields.io/badge/Gazebo-a4b5a9?style=flat&labelColor=1e221f)
+![ROS 2](https://img.shields.io/badge/ROS_2-c8dbbf?style=flat&logo=ros&logoColor=1a3318)
+![OpenCV](https://img.shields.io/badge/OpenCV-b5ceaa?style=flat&logo=opencv&logoColor=1a3318)
+![Gazebo](https://img.shields.io/badge/Gazebo-d4ddd1?style=flat&logoColor=2a3d27)
 
 **ML & Data** &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-afc9ab?style=flat&logo=pytorch&logoColor=171a18&labelColor=1e221f)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-a4b5a9?style=flat&logo=scikitlearn&logoColor=aebf9c&labelColor=1e221f)
-![pandas](https://img.shields.io/badge/pandas-a4b5a9?style=flat&logo=pandas&logoColor=aebf9c&labelColor=1e221f)
+![PyTorch](https://img.shields.io/badge/PyTorch-b5ceaa?style=flat&logo=pytorch&logoColor=1a3318)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-d4ddd1?style=flat&logo=scikitlearn&logoColor=2a3d27)
+![pandas](https://img.shields.io/badge/pandas-d4ddd1?style=flat&logo=pandas&logoColor=2a3d27)
 
 **Tools** &nbsp;
-![Linux](https://img.shields.io/badge/Linux-aebf9c?style=flat&logo=linux&logoColor=171a18&labelColor=1e221f)
-![Git](https://img.shields.io/badge/Git-8da38c?style=flat&logo=git&logoColor=171a18&labelColor=1e221f)
-![Docker](https://img.shields.io/badge/Docker-a4b5a9?style=flat&logo=docker&logoColor=aebf9c&labelColor=1e221f)
+![Linux](https://img.shields.io/badge/Linux-c8dbbf?style=flat&logo=linux&logoColor=1a3318)
+![Git](https://img.shields.io/badge/Git-9fc49a?style=flat&logo=git&logoColor=152b13)
+![Docker](https://img.shields.io/badge/Docker-b5ceaa?style=flat&logo=docker&logoColor=1a3318)
 
 ---
 
 ## Currently
 
-- `→` Contributing to [JdeRobot/PerceptionMetrics](https://github.com/JdeRobot/PerceptionMetrics) as GSoC 2026 applicant
-- `→` Deepening C++ for real-time robotics applications
-- `→` Preparing the driverless stack for next Formula Student season
+- → Contributing to [JdeRobot/PerceptionMetrics](https://github.com/JdeRobot/PerceptionMetrics) as GSoC 2026 applicant
+- → Deepening C++ for real-time robotics applications
+- → Preparing the driverless stack for next Formula Student season
 
 ---
 
@@ -82,5 +82,5 @@ test(perception): add cone classifier unit tests
 ---
 
 <div align="center">
-<sub>open to gsoc 2026 · open source robotics collaboration · internships in autonomous systems</sub>
+<sub>Open to GSoC 2026 · open source robotics collaboration · internships in autonomous systems</sub>
 </div>
