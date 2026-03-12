@@ -16,7 +16,7 @@
 
 I'm the Driverless Lead at UVigo Motorsport, Universidade de Vigo's Formula Student team. Day to day I design and maintain the perception, planning and control stack that lets our race car drive itself: detecting cones with cameras and lidar, building a map, planning a racing line, and closing the loop with low-level control — all in Python, ROS 2, OpenCV, PyTorch and Gazebo on Linux.
 
-On the academic side I'm a 2nd-year Computer Science student at the Escola de Enxeñaría Informática (Universidade de Vigo, Spain). I have a strong math background through ESTALMAT and STEMbach, which feeds directly into the geometry, probabilistic methods and optimisation I use in robotics every day.
+On the academic side I'm a 3nd-year Computer Science student at the Escola de Enxeñaría Informática (Universidade de Vigo, Spain). I have a strong math background through ESTALMAT and STEMbach, which feeds directly into the geometry, probabilistic methods and optimisation I use in robotics every day.
 
 ---
 
