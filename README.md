@@ -1,91 +1,86 @@
 <div align="center">
 
+<sub>UNIVERSIDADE DE VIGO · FORMULA STUDENT</sub>
+
 # Eva Freire Suárez
 
 **Driverless Lead @ UVigo Motorsport · CS @ Universidade de Vigo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-evafresua-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evafresua)
-[![UVigo Motorsport](https://img.shields.io/badge/UVigo_Motorsport-Driverless_Lead-E63946?style=flat)](https://uvigomotorsport.es)
-[![GSoC 2026](https://img.shields.io/badge/GSoC_2026-Applicant_%40_JdeRobot-4285F4?style=flat&logo=google&logoColor=white)](https://summerofcode.withgoogle.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evafresua-aebf9c?style=flat&logo=linkedin&logoColor=171a18&labelColor=1e221f)](https://www.linkedin.com/in/evafresua)
+[![UVigo Motorsport](https://img.shields.io/badge/UVigo_Motorsport-Driverless_Lead-d07878?style=flat&labelColor=1e221f)](https://uvigomotorsport.es)
+[![GSoC 2026](https://img.shields.io/badge/GSoC_2026-Applicant_%40_JdeRobot-8da38c?style=flat&logo=google&logoColor=aebf9c&labelColor=1e221f)](https://summerofcode.withgoogle.com)
 
 </div>
 
 ---
 
-## About me
+I'm the Driverless Lead at **UVigo Motorsport**, building the full autonomy stack that lets our Formula Student car drive itself — cone detection with cameras and lidar, SLAM-based mapping, racing line optimisation, and closed-loop control. Everything in Python, ROS 2, OpenCV, PyTorch and Gazebo on Linux.
 
-I'm the Driverless Lead at UVigo Motorsport, Universidade de Vigo's Formula Student team. Day to day I design and maintain the perception, planning and control stack that lets our race car drive itself: detecting cones with cameras and lidar, building a map, planning a racing line, and closing the loop with low-level control — all in Python, ROS 2, OpenCV, PyTorch and Gazebo on Linux.
+3rd-year Computer Science student at the Escola de Enxeñaría Informática (UVigo). Strong math background from ESTALMAT and STEMbach, feeding directly into the geometry, probabilistic methods and optimisation I apply in robotics every day.
 
-On the academic side I'm a 3nd-year Computer Science student at the Escola de Enxeñaría Informática (Universidade de Vigo, Spain). I have a strong math background through ESTALMAT and STEMbach, which feeds directly into the geometry, probabilistic methods and optimisation I use in robotics every day.
+---
+
+## Driverless stack
+
+| Area | What I do |
+|---|---|
+| **Perception** | Cone detection & classification from camera + lidar; sensor fusion pipeline |
+| **Planning** | SLAM-based map building, racing line optimisation, path planning |
+| **Control** | Lateral & longitudinal controllers; vehicle model tuning |
+| **Infrastructure** | ROS 2 architecture, Gazebo simulation, CI and tooling |
 
 ---
 
 ## Tech stack
 
-**Languages**
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-advanced-aebf9c?style=flat&logo=python&logoColor=171a18&labelColor=1e221f)
+![C++](https://img.shields.io/badge/C++-fundamentals-8da38c?style=flat&logo=cplusplus&logoColor=171a18&labelColor=1e221f)
+![MATLAB](https://img.shields.io/badge/MATLAB-a4b5a9?style=flat&labelColor=1e221f)
+![LaTeX](https://img.shields.io/badge/LaTeX-a4b5a9?style=flat&logo=latex&logoColor=aebf9c&labelColor=1e221f)
 
-![Python](https://img.shields.io/badge/Python-advanced-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-fundamentals-00599C?style=flat&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-EF6C00?style=flat)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+**Robotics & CV** &nbsp;
+![ROS 2](https://img.shields.io/badge/ROS_2-aebf9c?style=flat&logo=ros&logoColor=171a18&labelColor=1e221f)
+![OpenCV](https://img.shields.io/badge/OpenCV-8da38c?style=flat&logo=opencv&logoColor=171a18&labelColor=1e221f)
+![Gazebo](https://img.shields.io/badge/Gazebo-a4b5a9?style=flat&labelColor=1e221f)
 
-**Robotics & CV**
+**ML & Data** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-afc9ab?style=flat&logo=pytorch&logoColor=171a18&labelColor=1e221f)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-a4b5a9?style=flat&logo=scikitlearn&logoColor=aebf9c&labelColor=1e221f)
+![pandas](https://img.shields.io/badge/pandas-a4b5a9?style=flat&logo=pandas&logoColor=aebf9c&labelColor=1e221f)
 
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat)
-
-**ML & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## UVigo Motorsport Driverless
-
-| Area | Responsibilities |
-|---|---|
-| **Perception** | Cone detection and classification from camera and lidar data; sensor fusion pipeline |
-| **Planning** | Map building (SLAM), racing line optimisation, path planning |
-| **Control** | Lateral and longitudinal controllers; vehicle model tuning |
-| **Infrastructure** | ROS 2 architecture, simulation environment in Gazebo, CI and tooling |
+**Tools** &nbsp;
+![Linux](https://img.shields.io/badge/Linux-aebf9c?style=flat&logo=linux&logoColor=171a18&labelColor=1e221f)
+![Git](https://img.shields.io/badge/Git-8da38c?style=flat&logo=git&logoColor=171a18&labelColor=1e221f)
+![Docker](https://img.shields.io/badge/Docker-a4b5a9?style=flat&logo=docker&logoColor=aebf9c&labelColor=1e221f)
 
 ---
 
 ## Currently
 
-- Contributing to [JdeRobot/PerceptionMetrics](https://github.com/JdeRobot/PerceptionMetrics) as a GSoC 2026 applicant
-- Deepening C++ skills for real-time robotics applications
-- Preparing the driverless stack for the next Formula Student season
+- `→` Contributing to [JdeRobot/PerceptionMetrics](https://github.com/JdeRobot/PerceptionMetrics) as GSoC 2026 applicant
+- `→` Deepening C++ for real-time robotics applications
+- `→` Preparing the driverless stack for next Formula Student season
 
 ---
 
-## Certifications
+## Commit style
 
-- Machine Learning with Python — IBM / edX (2024)
-- Analyzing Data with Python — edX (2025)
-- Visualizing Data with Python — edX (2025)
-- Python for Data Science Project — IBM / edX (2025)
-- Cambridge English FCE B2
+```
+feat(perception): add lidar-camera fusion pipeline
+fix(control): correct lateral PID tuning for low-speed
+refactor(planning): simplify racing line optimiser logic
+chore(ci): update gazebo sim launch config
+docs(slam): document map-building pipeline
+test(perception): add cone classifier unit tests
+```
 
----
-
-## Reach me
-
--  LinkedIn: [linkedin.com/in/evafresua](https://www.linkedin.com/in/evafresua)
+> **types:** `feat` · `fix` · `refactor` · `chore` · `docs` · `test` · `perf`  
+> **scopes:** `perception` · `planning` · `control` · `slam` · `ci` · `infra`  
+> **rules:** english · imperative mood · ≤ 72 chars
 
 ---
 
 <div align="center">
-
-*Open to GSoC 2026 · open source robotics collaboration · internships in autonomous systems*
-
+<sub>open to gsoc 2026 · open source robotics collaboration · internships in autonomous systems</sub>
 </div>
