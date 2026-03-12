@@ -80,8 +80,7 @@ On the academic side I'm a 2nd-year Computer Science student at the Escola de En
 
 ## Reach me
 
-- 📧 Email: `your.email@here`
-- 💼 LinkedIn: [linkedin.com/in/evafresua](https://www.linkedin.com/in/evafresua)
+-  LinkedIn: [linkedin.com/in/evafresua](https://www.linkedin.com/in/evafresua)
 
 ---
 
